@@ -18,7 +18,9 @@ pnpm-debug.log*
 
 # Build artifacts
 frontend/dist/
+dist/
 coverage/
+*.log
 
 # Editor/OS
 .vscode/
